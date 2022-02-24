@@ -1,1 +1,1 @@
-# pttlink
+# PTTLink Main Organizational Repository
